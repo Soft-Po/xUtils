@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="G:\Android\androidStuidoProject\xUtils\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_e9542547ddb31f770ab87608d0866493ccb01b17.jar" />
+    </item>
+    <item
+        jar="G:\Android\androidStuidoProject\xUtils\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b990317eb0aea1399c19f70a3aa803b53517f296">
+        <dex dex="G:\Android\androidStuidoProject\xUtils\app\build\intermediates\pre-dexed\debug\classes_2a4889c9d4d118b46e852ebfcaef373ca25787ca.jar" />
+    </item>
+    <item
+        jar="G:\Android\androidStuidoProject\xUtils\app\libs\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="be098e2f86e800fc374a76c6df72f1b7b158b6fd">
+        <dex dex="G:\Android\androidStuidoProject\xUtils\app\build\intermediates\pre-dexed\debug\classes_d75f83101b5fbdddfa65b6589980b794167a4434.jar" />
+    </item>
+    <item
+        jar="G:\Android\androidStuidoProject\xUtils\app\build\intermediates\incremental-runtimfe-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="836bd9b0f6565e7558b17b7ecc12d274ce3d091f">
+        <dex dex="G:\Android\androidStuidoProject\xUtils\app\build\intermediates\pre-dexed\debug\instant-run_08d034ae940fe9478d1ad0ae616585aed1c8a2e5.jar" />
+    </item>
+
+</items>

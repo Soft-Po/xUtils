@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="19"
+    density="mdpi"
+    format="1"
+    timestamp="1453518175082"
+    verifier="CLASS_ANNOTATION_CHANGE" >
+
+    <task
+        name="javac"
+        duration="337" />
+    <task
+        name="instant-run-dex"
+        duration="2735" />
+    <task
+        name="instant-run-transform"
+        duration="57" />
+    <task
+        name="verifier"
+        duration="7" />
+
+    <artifact
+        location="G:\Android\androidStuidoProject\xUtils\app\build\intermediates\restart-dex\debug\classes.dex"
+        type="RESTART_DEX" />
+
+    <build timestamp="1453517084207" >
+        <artifact
+            location="G:\Android\androidStuidoProject\xUtils\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1453517918379"
+        verifier="CLASS_ANNOTATION_CHANGE" >
+        <artifact
+            location="G:\Android\androidStuidoProject\xUtils\app\build\intermediates\builds\debug\1453517918379\classes.dex"
+            type="RESTART_DEX" />
+    </build>
+    <build
+        timestamp="1453518175082"
+        verifier="CLASS_ANNOTATION_CHANGE" >
+        <artifact
+            location="G:\Android\androidStuidoProject\xUtils\app\build\intermediates\restart-dex\debug\classes.dex"
+            type="RESTART_DEX" />
+    </build>
+
+</instant-run>
